@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.background{
+    background-color: #808080;
+    height: 80vh;
+    padding-top: 10%;
+}
+
+.weather-card{
+    background-color: #fff;
+    margin: 0 37%;
+    padding: 25px;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+.city-time h1{
+    text-align: center;
+    padding-top: 55px;
+    font-size: 55px;
+}
+
+.city-time p{
+    font-size: 14px;
+    color: #808080;
+}
+
+.details{
+    padding-top: 35px;
+}
+
+.details  p{
+    padding-bottom: 5px;
+}
+
+.details img{
+    position: absolute;
+    left: 54%;
+    top: 51%;
+    width: 80px;
+}
